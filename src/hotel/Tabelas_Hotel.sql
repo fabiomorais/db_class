@@ -47,3 +47,5 @@ hora datetime,
 Foreign Key (hospede) References Hospedes (CPF),
 Foreign Key (servico) References Servicos (codServico)
 )
+
+go
